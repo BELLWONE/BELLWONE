@@ -14,15 +14,15 @@
 
 ### 🛠 Skills
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=c&logoColor=white"/>
 <br>
 
 ---
 
-### 📊 Stats & Problem Solving
+### 📊 Stats
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jongwon-J&show_icons=true&theme=radical" />
-  <a href="https://solved.ac/supper1470">
-    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=supper1470" />
-  </a>
 </div>
