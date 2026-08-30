@@ -5,7 +5,6 @@
 ## Hi 👋 I'm Jongwon Jung
 
 - 🎓 **Computer Engineering** student at **Hankuk University of Foreign Studies (HUFS)**
-- 🧬 Interested in **Medical AI, Computer Vision**
 
 ---
 
